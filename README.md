@@ -1,5 +1,5 @@
 
-<h1 align="center">Siema</h1>
+<h1 align="center">MlodyR</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/sFVR2vs3mC" />
@@ -8,7 +8,7 @@
 
 <img align="left" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
-
+<img align="right" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
 ### Kontakt do mnie:
 
