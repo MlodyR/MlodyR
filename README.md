@@ -15,11 +15,6 @@
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/sFVR2vs3mC ]
 <br />
 
-### Spotify
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-
 
 ### Statystyki !
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
