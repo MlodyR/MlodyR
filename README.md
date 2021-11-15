@@ -8,20 +8,19 @@
 
 <img align="left" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
-<img align="right" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
+<img align="right" height="100" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
 ### Kontakt do mnie:
 
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/sFVR2vs3mC ]
 <br />
 
 
 ### Statystyki !
+![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
 
-<img align="left" alt="Statystyki" width="50px" src="https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy" />]
 
 ## LICZNIK WIZYT
 ![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
 
 <br />
-
