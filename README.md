@@ -1,0 +1,31 @@
+
+<h1 align="center">Siema</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/sFVR2vs3mC" />
+</p>
+
+
+<img align="left" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
+
+
+
+### Kontakt do mnie:
+
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/sFVR2vs3mC ]
+<br />
+
+### Spotify
+<p align="center">
+  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+
+
+### Statystyki !
+![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
+
+
+## LICZNIK WIZYT
+![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
+
+<br />
