@@ -12,15 +12,16 @@
 
 ### Kontakt do mnie:
 
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/sFVR2vs3mC ]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
 <br />
 
 
 ### Statystyki !
-![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
 
+<img align="left" alt="Statystyki" width="50px" src="https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy" />]
 
 ## LICZNIK WIZYT
 ![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
 
 <br />
+
