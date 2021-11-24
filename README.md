@@ -2,7 +2,7 @@
 <h1 align="center">MlodyR</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/sFVR2vs3mC" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/T6anudJ2CX" />
 </p>
 
 
@@ -12,7 +12,7 @@
 
 ### Kontakt do mnie: 
 
-「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/sFVR2vs3mC 」
+「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/T6anudJ2CX 」
 <br />
 
 
